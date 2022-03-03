@@ -26,6 +26,6 @@
 
 **11. Time** 
 
-**12. Wordcloud ** 
+**12. Wordcloud** 
 
 **13. Pickle** 
